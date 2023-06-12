@@ -1,5 +1,5 @@
-# node-group-messaging
-End points for group messaing
+# node-group-messaging 
+End points for group messaging
 
 ### Tech stake
 1. Node js (Express JS)

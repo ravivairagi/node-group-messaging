@@ -5,12 +5,12 @@ End points for group messaging
 1. Node js (Express JS)
 2. MongoDB
 
-### Base URL of the API server to use. No trailing slash.
+### Base URL of the API server
 API_HOST=https://localhost:3000
 
 ### To setup the project
 1. Install dependencies by `npm install` command
-2. Create .env file and add JWT_TOKEN_STRING={scrit_string} and POST=3000
+2. Create .env file and add JWT_TOKEN_STRING={scrit_string} and POSR=3000
 
 ### Run Project
 Run the node server using `node index.js` command
